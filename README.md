@@ -1,3 +1,18 @@
+Dans ce git vous trouverez une app react. Qui a été publié a la fois sur git et sur heroku. 
+Le github action permet de mettre a jour le git et hekoru. 
+
+Projet stopé apres avoir push une image manuellement sur dockerhub.
+J'ai bloqué sur le fait d'automatisé, le pallier 4.
+
+
+
+
+
+
+
+
+
+##############READ ME REACT############################################
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
